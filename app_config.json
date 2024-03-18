@@ -1,0 +1,7 @@
+{
+    "org_images_folder_path": "C:/Users/Max/Desktop/deepface_script/truephotos",
+    "generated_images_folder_path": "C:/Users/Max/Desktop/deepface_script/generatedphotos",
+    "selected_model": "Dlib",
+    "selected_metric": "euclidean_l2",
+    "selected_backend": "retinaface"
+}
