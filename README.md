@@ -8,8 +8,8 @@ Similarity is assessed using the deepface library, while quality is assessed usi
 
 ## Credits 
 
-Big thanks to:
-https://github.com/serengil/deepface
-https://github.com/Navezjt/PickScore
-https://github.com/IceClear/CLIP-IQA
-https://github.com/photosynthesis-team/piq
+Big thanks to: \
+https://github.com/serengil/deepface \
+https://github.com/Navezjt/PickScore \
+https://github.com/IceClear/CLIP-IQA \
+https://github.com/photosynthesis-team/piq 
